@@ -10,8 +10,8 @@
       "Gojo",
       "Anime"
     ],
-    "repository": "https://github.com/Gojo-Bots/Gojo_Satoru",
-    "success_url": "https://t.me/GojoSuperbot",
+    "repository": "https://github.com/coderkkSk/Gojo_Satoru",
+    "success_url": "https://t.me/Gojofirebot",
     "env": {
       "BOT_TOKEN": {
         "description": "Your telegram bot token, get from @Botfather in telegram.",
@@ -41,17 +41,17 @@
       "OWNER_ID": {
         "description": "Your user ID as an integer.",
         "required": false,
-        "value": "1344569458"
+        "value": "6545620785"
       },
       "SUPPORT_GROUP": {
         "description": "Your Telegram support group chat username where users can contact in case of a problem..",
         "required": false,
-        "value": "gojo_bots_network"
+        "value": ""
       },
       "MESSAGE_DUMP": {
         "description": "Event logs channel where bot will send updates.",
         "required": true,
-        "value": ""
+        "value": "-1001831641509"
       },
       "PREFIX_HANDLER": {
         "description": "Something like '/' to execute commands...Don't give a comma or anything after 1 handler just give and space then enter second hand;ler",
@@ -61,22 +61,22 @@
       "DEV_USERS": {
         "description": "ID of users who are Devs of your bot. Use space to separate values",
         "required": false,
-        "value": ""
+        "value": "840548594 5994369841"
       },
       "SUPPORT_CHANNEL": {
         "description": "Channel where bot updates will be posted!",
         "required": false,
-        "value": "gojo_bots_network"
+        "value": ""
       },
       "SUDO_USERS": {
         "description": "A space-separated list of user IDs who you want to assign as sudo users.",
         "required": false,
-        "value": ""
+        "value": "5994369841 840548594"
       },
       "WHITELIST_USERS": {
         "description": "A space-separated list of user IDs whitelisted, cannot be restricted.",
         "required": false,
-        "value": ""
+        "value": "840548594 5994369841"
       },
       "GENIUS_API" : {
         "description": "Your Lyrics Genius Api Token. To fetch lyrics of songs",
