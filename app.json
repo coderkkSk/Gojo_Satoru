@@ -30,7 +30,7 @@
       },
       "DB_URI": {
         "description": "Your MongoDB connection string.",
-        "required": true,
+        "required": false,
         "value": ""
       },
       "DB_NAME": {
